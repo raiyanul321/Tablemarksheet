@@ -1,0 +1,12 @@
+table, th, td {
+  border: 3px solid rgb(0, 228, 249);
+  border-collapse: collapse;
+color: rgb(0, 0, 0);}
+  h3 {background-color: red; text-align: center;}
+  th, td {text-align: center;}
+body {margin-top: 50px;
+margin-left: 200px;
+margin-right: 200px;
+margin-block-end: 100px;}
+  
+  
